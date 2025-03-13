@@ -7,5 +7,5 @@ API
 
 #### Screenshots
 
-![Screenshot 1](https://raw.githubusercontent.com/masrafi115/CPU-X/refs/heads/main/screenshots/Screenshot_20230521-013028.png)
-![Screenshot 2](https://raw.githubusercontent.com/masrafi115/CPU-X/refs/heads/main/screenshots/Screenshot_20230521-114505.png)
+![Screenshot 1](https://raw.githubusercontent.com/masrafi115/Currency-Converter/refs/heads/main/screenshots/Screenshot_20230521-013028.png)
+![Screenshot 2](https://raw.githubusercontent.com/masrafi115/Currency-Converter/refs/heads/main/screenshots/Screenshot_20230521-114505.png)
